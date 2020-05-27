@@ -50,6 +50,7 @@ Be part of a network of multiple small federated, interoperable video hosting pr
   <a href="https://automate.browserstack.com/public-build/T2g0SVQyMTJtYVRWaEZQTE9LdU9UU1ZDSkY5dTJ6dGlNRUVIajd4QlIwST0tLVdTQ1NUZ0pUTzRZT3lyZzkvWGNSZ1E9PQ==--278d3c68ae0827ce57e245e9f5a3b8c35d6e2278%">
     <img src="https://automate.browserstack.com/badge.svg?badge_key=T2g0SVQyMTJtYVRWaEZQTE9LdU9UU1ZDSkY5dTJ6dGlNRUVIajd4QlIwST0tLVdTQ1NUZ0pUTzRZT3lyZzkvWGNSZ1E9PQ==--278d3c68ae0827ce57e245e9f5a3b8c35d6e2278%"/>
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGafera%2FPeerTube?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGafera%2FPeerTube.svg?type=shield"/></a>
 </p>
 
 <p align="center">
@@ -225,3 +226,6 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGafera%2FPeerTube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGafera%2FPeerTube?ref=badge_large)
