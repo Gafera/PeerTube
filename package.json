@@ -144,7 +144,7 @@
     "uuid": "^7.0.1",
     "validator": "^13.0.0",
     "webfinger.js": "^2.6.6",
-    "webtorrent": "^0.107.16",
+    "webtorrent": "^0.108.1",
     "winston": "3.2.1",
     "ws": "^7.0.0",
     "youtube-dl": "^3.0.2"
