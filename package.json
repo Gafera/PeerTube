@@ -103,7 +103,7 @@
     "express-oauth-server": "^2.0.0",
     "express-rate-limit": "^5.0.0",
     "express-validator": "^6.4.0",
-    "flat": "^5.0.0",
+    "flat": "^5.0.2",
     "fluent-ffmpeg": "^2.1.0",
     "fs-extra": "^9.0.0",
     "helmet": "^3.12.1",
