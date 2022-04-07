@@ -84,7 +84,7 @@
   },
   "dependencies": {
     "apicache": "^1.4.0",
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "async-lru": "^1.1.1",
     "bcrypt": "4.0.1",
     "bittorrent-tracker": "^9.0.0",
@@ -145,7 +145,7 @@
     "validator": "^13.0.0",
     "webfinger.js": "^2.6.6",
     "webtorrent": "^0.107.16",
-    "winston": "3.2.1",
+    "winston": "3.3.0",
     "ws": "^7.0.0",
     "youtube-dl": "^3.0.2"
   },
