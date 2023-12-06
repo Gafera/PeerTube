@@ -137,7 +137,7 @@
     "sequelize-typescript": "^1.0.0-beta.4",
     "sharp": "^0.25.2",
     "sitemap": "^6.1.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.5",
     "srt-to-vtt": "^1.1.2",
     "tsconfig-paths": "^3.9.0",
     "useragent": "^2.3.0",
@@ -147,7 +147,7 @@
     "webtorrent": "^0.107.16",
     "winston": "3.2.1",
     "ws": "^7.0.0",
-    "youtube-dl": "^3.0.2"
+    "youtube-dl": "^3.1.0"
   },
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "^1.0.12-4.3.0",
