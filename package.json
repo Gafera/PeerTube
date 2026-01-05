@@ -89,7 +89,7 @@
     "bcrypt": "4.0.1",
     "bittorrent-tracker": "^9.0.0",
     "bluebird": "^3.5.0",
-    "body-parser": "^1.12.4",
+    "body-parser": "^1.20.4",
     "bull": "^3.4.2",
     "bytes": "^3.0.0",
     "commander": "^5.0.0",
@@ -98,8 +98,8 @@
     "cors": "^2.8.1",
     "create-torrent": "^4.0.0",
     "deep-object-diff": "^1.1.0",
-    "email-templates": "^7.0.4",
-    "express": "^4.12.4",
+    "email-templates": "^13.0.0",
+    "express": "^4.22.0",
     "express-oauth-server": "^2.0.0",
     "express-rate-limit": "^5.0.0",
     "express-validator": "^6.4.0",
@@ -113,7 +113,7 @@
     "is-cidr": "^3.0.0",
     "iso-639-3": "^2.0.0",
     "js-yaml": "^3.5.4",
-    "jsonld": "~3.0.1",
+    "jsonld": "~5.0.0",
     "lodash": "^4.17.10",
     "lru-cache": "^5.1.1",
     "magnet-uri": "^5.1.4",
@@ -147,7 +147,7 @@
     "webtorrent": "^0.107.16",
     "winston": "3.2.1",
     "ws": "^7.0.0",
-    "youtube-dl": "^3.0.2"
+    "youtube-dl": "^3.5.0"
   },
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "^1.0.12-4.3.0",
